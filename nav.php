@@ -9,7 +9,7 @@
         <div class="collapse navbar-collapse d-md-flex justify-content-end" id="navbarNavAltMarkup">
             <div class="navbar-nav">
                 <a class="nav-link" data-bs-toggle="modal" data-bs-target="#exampleModal">How to use</a>
-                <a class="nav-link" href="https://bit.ly/daftar-kelas-design" target="_blank">Learn to code</a>
+                <a class="nav-link" href="https://github.com/msulaimanmisri" target="_blank">About me</a>
                 <a class="nav-link" href="https://bit.ly/daftar-kelas-design" target="_blank">Learn to code</a>
             </div>
         </div>
@@ -27,8 +27,6 @@
                     <button type="button" class="btn btn-secondary btn-sm" data-bs-dismiss="modal">Close</button>
                 </div>
             </div>
-
-
 
         </div>
     </div>
