@@ -1,10 +1,10 @@
 <?php
 
 require 'vendor/autoload.php';
+require 'env.php';
 
 use GuzzleHttp\Client;
 
-$client_id = "lGU0GgTJRsGL2oSmX9Y5HHk7DJ97d4N-Gk3JeClX9jw";
 $per_page = 12;
 $orientation = 'portrait';
 $data = '';
