@@ -1,8 +1,9 @@
-<nav class="navbar navbar-expand-lg bg-body-tertiary">
+<nav class="navbar navbar-expand-lg bg-body-tertiary border-bottom">
     <div class="container">
         <a class="navbar-brand" href="/">Sulaiman Misri</a>
 
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup"
+            aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
 
@@ -21,7 +22,8 @@
         <div class="modal-content">
 
             <div class="modal-body">
-                Simply search the image you love. And then after the image is fully loaded, you can right click at it and choose whatever option you want. Such as Open in new tab or copy link.
+                Simply search the image you love. And then after the image is fully loaded, you can right click at it
+                and choose whatever option you want. Such as Open in new tab or copy link.
 
                 <div class="mt-3">
                     <button type="button" class="btn btn-secondary btn-sm" data-bs-dismiss="modal">Close</button>

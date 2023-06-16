@@ -7,7 +7,7 @@ require 'env.php';
 use GuzzleHttp\Client;
 use GuzzleHttp\Exception\ClientException;
 
-$per_page = 12;
+$per_page = 100;
 $orientation = 'portrait';
 $data = '';
 $error = '';
